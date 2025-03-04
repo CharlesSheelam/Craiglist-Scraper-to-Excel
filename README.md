@@ -9,5 +9,5 @@ pip install selenium
 pip install beautifulsoup
 pip install pandas 
 
-*ALSO REQUIRES CHROME DRIVER, INSTALLED SEPERATELY* - PASTE FILE DIRECTORY INTO CHROME DRIVER OBJECT
+*also requires chrome driver, installed seperately - paste file directory into chrome driver path
 
